@@ -1,0 +1,31 @@
+# Sample Questions for Maersk RAG Demo
+
+## Shipping & Logistics Questions
+1. What are the transit times from Mumbai to Rotterdam?
+2. What documentation is required for container export?
+3. What are the container size options available?
+4. What is the process for customs clearance at Indian ports?
+5. What are the demurrage charges for delayed container pickup?
+
+## Policy & Terms Questions
+6. What is the liability coverage for damaged cargo?
+7. What are the payment terms for shipping services?
+8. What is the policy on container detention charges?
+9. What are the force majeure conditions in the shipping contract?
+10. What insurance options are available for high-value cargo?
+
+## Operations Questions
+11. How do I track my shipment in real-time?
+12. What is the process for modifying a booking after confirmation?
+13. What are the port cut-off times for Mumbai?
+14. How can I arrange for refrigerated container transport?
+15. What is the procedure for filing a cargo claim?
+
+# Instructions:
+# - Update your PDF path in rag_demo_fresh.py
+# - Use Maersk-related documents like:
+#   * Shipping terms and conditions
+#   * Bill of lading documents
+#   * Container specifications
+#   * Port operation guidelines
+#   * Insurance policy documents
